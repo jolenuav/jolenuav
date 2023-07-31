@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm José Núñez</h1>
-<h3 align="center">A passionate full-stack developer from Venezyuela, actually living at Argentina.</h3>
+<h3 align="center">A passionate full-stack developer from Venezuela, actually living at Argentina.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jolenuav&label=Profile%20views&color=0e75b6&style=flat" alt="jolenuav" /> </p>
 
@@ -16,6 +16,8 @@
 - 📫 How to reach me **nunez.joseleo@gmal.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/nunezjoseleonardo/](https://www.linkedin.com/in/nunezjoseleonardo/)
+
+- ⚡ Fun fact **I like muscle resistance training and video games**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
