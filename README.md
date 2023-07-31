@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jolenuav" alt="jolenuav" /></a> </p>
 
-- 🔭 I’m currently working on **Warner Media Discovery from Vates.**
+- 🔭 I’m currently working with **Warner Bros. Discovery from Vates.**
 
 - 🌱 I’m currently learning **Project Manager and reinforcing Java Spring Boot and Angular.**
 
